@@ -2,6 +2,7 @@
 
 CRUD API z uporabo Express za routing in Mongoose za interakcijo z MongoDB bazo
 
+
 Routi, ki jih API omogoča:
 
 [GET] /products
@@ -13,6 +14,8 @@ Routi, ki jih API omogoča:
 [DELETE] /product/:id
 
 [PUT] /product
+
+
 
 Na  [GET] /products  dobi response s sledečo shemo:
 
