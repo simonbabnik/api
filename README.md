@@ -2,6 +2,8 @@
 
 CRUD API z uporabo Express za routing in Mongoose za interakcijo z MongoDB bazo
 
+
+
 Za delovanje potrebuje naslednje installe:
 
 $ npm install express --save
@@ -9,6 +11,7 @@ $ npm install express --save
 $ npm install mongoose
 
 $ npm install body-parser
+
 
 
 
