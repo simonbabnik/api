@@ -9,12 +9,12 @@ $ npm install body-parser
 
 Routi, ki jih API omogoča:
 
-[GET] /products
-[POST] /product
-[GET] /product/:id
-[DELETE] /product/:id
-[PUT] /product
-
+[GET] /products  
+[POST] /product  
+[GET] /product/:id  
+[DELETE] /product/:id  
+[PUT] /product  
+  
 
 Na  [GET] /products  dobi response s sledečo shemo:
 
