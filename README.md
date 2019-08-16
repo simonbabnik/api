@@ -2,9 +2,9 @@
 
 Za delovanje potrebuje naslednje installe:
 
-$ npm install express --save
-$ npm install mongoose
-$ npm install body-parser
+$ npm install express --save  
+$ npm install mongoose  
+$ npm install body-parser  
 
 
 Routi, ki jih API omogoča:
